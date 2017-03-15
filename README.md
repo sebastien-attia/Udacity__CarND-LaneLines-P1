@@ -9,4 +9,4 @@ Overview
 The easiest way to run this project is by using docker and by executing the following command
 in the directory where this repository has been cloned:
 
-`> docker run -it --rm -p 8888:8888 -v ``pwd``:/src udacity/carnd-term1-starter-kit`
+``> docker run -it --rm -p 8888:8888 -v `pwd`:/src udacity/carnd-term1-starter-kit``
